@@ -260,7 +260,7 @@ void fight() {
   delay(pause_between_words);
 
   morse_o();
-  morse_n()
+  morse_n();
   delay(pause_between_words);
   morse_t();
   morse_h();
@@ -391,7 +391,7 @@ void fight() {
   delay(pause_between_words);
 
   morse_o();
-  morse_n()
+  morse_n();
   delay(pause_between_words);
   morse_t();
   morse_h();
